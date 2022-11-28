@@ -1,0 +1,60 @@
+.buttons{
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+}
+.menu {
+    width: 880px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+input[type="button"].make_table{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: greenyellow;
+}
+input[type="button"].make_table:hover{
+    background-color: green;
+}
+input[type="button"].add_row{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: yellow;
+}
+input[type="button"].add_row:hover{
+    background-color: gold;
+}
+input[type="button"].delete_row{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(196, 92, 92);
+}
+input[type="button"].delete_row:hover{
+    background-color: red;
+}
+input[type="search"].find{
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(131, 210, 224);
+
+}
+input[type="search"].find:hover{
+    background-color: rgb(235, 235, 255);
+}
+table{
+    border: 1px solid black;
+    margin: 0 auto;
+}
+tr{
+    height: 20px;
+    
+}
+td{
+    width: 100px;
+    border: 1px solid black;
+}
