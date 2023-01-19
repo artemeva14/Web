@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Web",
+			"path": ".."
+		},
+		{
+			"name": "laba2",
+			"path": "../../laba2"
+		},
+		{
+			"name": "laba1",
+			"path": "../../laba1"
+		}
+	],
+	"settings": {}
+}

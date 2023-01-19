@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product><id>1</id><name>Кактус Астрофитум</name><price>515</price><description>Отличный подарок!</description></product>
+    <product><id>2</id><name>Кактус Цереус</name><price>800</price><description>Гигантский кактус!!</description></product>
+    <product><id>3</id><name>Кактус Эхиноцереус</name><price>2000</price><description>Красивое растение!</description></product>
+    <product><id>4</id><name>Кактус Маммиллярия</name><price>240</price><description>Дешево и красиво!</description></product>
+    <product><id>5</id><name>Кактус Нотокактус отто</name><price>2500</price><description>Что-то на богатом</description></product>
+    <product><id>6</id><name>Кактус Молочай</name><price>600</price><description>Высота кактуса 1м</description></product>
+</products>
